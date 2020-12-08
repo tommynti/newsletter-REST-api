@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "5fcea449de7b7740444bef66"
+  },
+  "articles": [
+    {
+      "$oid": "5fcea4c7de7b7740444bef6a"
+    },
+    {
+      "$oid": "5fcea50fde7b7740444bef6c"
+    },
+    {
+      "$oid": "5fcea52bde7b7740444bef6d"
+    }
+  ],
+  "name": "health",
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "5fcea455de7b7740444bef67"
+  },
+  "articles": [
+    {
+      "$oid": "5fcea658de7b7740444bef6e"
+    },
+    {
+      "$oid": "5fcea69bde7b7740444bef70"
+    },
+    {
+      "$oid": "5fcea6c4de7b7740444bef71"
+    }
+  ],
+  "name": "science",
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "5fcea45fde7b7740444bef68"
+  },
+  "articles": [
+    {
+      "$oid": "5fcea6fbde7b7740444bef72"
+    },
+    {
+      "$oid": "5fcea74bde7b7740444bef74"
+    },
+    {
+      "$oid": "5fcea770de7b7740444bef75"
+    }
+  ],
+  "name": "sports",
+  "__v": 3
+}]

@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "5fcea4c7de7b7740444bef6a"
+  },
+  "title": "What Is the Risk of Getting COVID-19 While Shopping?",
+  "content": "The holiday season has officially begun, and cities like El Paso, Texas, are reeling from a one-two punch of already surging COVID-19 rates and new infections, possibly due to widespread travel over Thanksgiving.",
+  "category": {
+    "$oid": "5fcea449de7b7740444bef66"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcea50fde7b7740444bef6c"
+  },
+  "title": "Warning! Junk foods can harm a teen’s brain",
+  "content": "“You are what you eat.” When people say that, they mean a healthy diet can boost your health. But the opposite is also true. In fact, if you’re between the ages of 10 and 19, eating too much junk food can harm your body and your brain.",
+  "category": {
+    "$oid": "5fcea449de7b7740444bef66"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcea52bde7b7740444bef6d"
+  },
+  "title": "Moderna vaccine for COVID-19 appears nearly 95 percent effective",
+  "content": "For the second week in a row, a major drug maker has issued data indicating that its new vaccine could be successful at fighting COVID-19. Preliminary results indicate that this coronavirus vaccine by Moderna Inc. is nearly 95 percent effective in preventing sickness.",
+  "category": {
+    "$oid": "5fcea449de7b7740444bef66"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcea658de7b7740444bef6e"
+  },
+  "title": "Why losing Arecibo is a big deal for astronomy",
+  "content": "Edgard Rivera-Valentín first visited the Arecibo Observatory as a little kid.“I definitely remember this feeling of just being awestruck,” Rivera-Valentín says. “Looking at this gigantic telescope … getting to hear about all this neat work that was being done … it definitely leaves an impression.” Important science was happening right in the backyard of Rivera-Valentín’shometown of Arecibo, Puerto Rico — and someday, Rivera-Valentín wanted to be a part of it.",
+  "category": {
+    "$oid": "5fcea455de7b7740444bef67"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcea69bde7b7740444bef70"
+  },
+  "title": "50 years ago, scientists caught their first glimpse of amino acids from outer space",
+  "content": "Scientists confirmed in 1971 that the Murchison meteorite contained amino acids, primarily glycine, and that those organic compounds likely came from outer space (SN: 3/20/71, p. 195). In the decades since, amino acids and other chemical precursors to life have been uncovered in other fallen space rocks. Recent discoveries include compounds called nucleobases and sugars that are key components of DNA and RNA.",
+  "category": {
+    "$oid": "5fcea455de7b7740444bef67"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcea6c4de7b7740444bef71"
+  },
+  "title": "Plastics are showing up in the world’s most remote places, including Mount Everest",
+  "content": "Minuscule shreds and threads of plastic are turning up all over, including in the snow on Mount Everest.“We’ve known that plastic is in the deep sea, and now it’s on the tallest mountain on Earth,” says Imogen Napper, a marine scientist at the University of Plymouth in England and a National Geographic Explorer. “It’s ubiquitous through our whole environment.”",
+  "category": {
+    "$oid": "5fcea455de7b7740444bef67"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcea6fbde7b7740444bef72"
+  },
+  "title": "Premier League's deadliest duo",
+  "content": "Sergio Aguero and David Silva were a great combination. Tottenham supporters might even begrudgingly acknowledge that Thierry Henry and Robert Pires had their moments for Arsenal. But on derby day it was Harry Kane and Heung-Min Son who combined twice to give Spurs a 2-0 win and move clear of both on the list of Premier League partnerships.",
+  "category": {
+    "$oid": "5fcea45fde7b7740444bef68"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcea74bde7b7740444bef74"
+  },
+  "title": "Nadal receives Madrid's highest honour",
+  "content": "The 20-time Grand Slam champion was bestowed with the award that recognises people and institutions whose exemplary behaviour has stood out in their service to the citizenry. 'I hope that what we are going through now will soon be but a memory,' said Nadal",
+  "category": {
+    "$oid": "5fcea45fde7b7740444bef68"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcea770de7b7740444bef75"
+  },
+  "title": "Coleman: World 100m champion appeals ban",
+  "content": "World 100 metres champion Christian Coleman has filed an appeal against his ban from competition until May 2022 for breaching anti-doping 'whereabouts' rules.",
+  "category": {
+    "$oid": "5fcea45fde7b7740444bef68"
+  },
+  "__v": 0
+}]
