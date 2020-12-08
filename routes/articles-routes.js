@@ -8,7 +8,7 @@ router.post("/", articles.createArticle);
 
 router.get("/id/:arid/:payload?", articles.getArticleById);
 
-router.get("/:contents?/:category?", articles.getAllArticles); // problhma me to path - de blepei ta get sa 2 ksexwrista kai ektelei mono to prwto
+router.get("/:contents?/:category?", articles.getAllArticles);
 
 router.patch("/id/:arid", articles.updateArticle);
 
